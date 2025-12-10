@@ -13,7 +13,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 # App UI
-st.title("📘 PDF Word Analyzer")
+st.title("Word Analyzer & word generator")
 st.write("Upload a PDF file to extract text, list frequent words, and view a word cloud.")
 
 # File uploader
